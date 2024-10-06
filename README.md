@@ -8,4 +8,5 @@ Talha - Class Syllabus for Open Source Software Dev
 
 ### First Codebase Work
 
+- [My Build Process for Reor](reor-build-process.md)
 - [Link to my Essay](https://docs.google.com/document/d/1b6I3zi2j0btmbHblXpOVSh00CMr16DqC03-7kQ7jfik/edit?usp=sharing)
