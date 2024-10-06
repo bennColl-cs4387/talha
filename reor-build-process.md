@@ -22,3 +22,11 @@ npm ERR! enoent
 npm ERR! A complete log of this run can be found in: /Users/talhachy/.npm/_logs/2024-10-06T17_55_12_634Z-debug-0.log
 
 ```
+
+After some debugging turns out that I've run ```npm install``` in the wrong directory. I should've cd'ed into the directory of the cloned repo. Once I did that and run it again, it was successful. 
+
+Next, I went onto building the project running the following command: 
+
+```npm run build```
+
+It took a while to build but the build went sucessful. 
