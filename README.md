@@ -13,7 +13,6 @@ I contributed to [Temporary Environment 4 React](https://github.com/cu8code/Temp
 
 # Learnings 
 
-what you learned in the course, your major pain points, and anything you wish you learned more about. 
 
 My major learning in this course was getting out of my comfort zone to contribute to an open source project following the proper steps (such as pull requests, reading documentation, etc.). I've also navigated multiple open source projects which elevated my ability to read code and enhance my understanding of project structures. It was always overwhelming for me to contribute to open source projects because of inivisble fears of doing somethign wrong and messing it up. But going through this project has helped me get over that fear. I wanted to work on something that I cared about, which is working on a newly initiated project and that goal was fulfilled. Even though the pull request hasn't been accepted, the process I went through to get to that process isn't wasted. I recommend more computer science students to take courses like this that enhance their collaboration skill and make them a better programmer.
 
